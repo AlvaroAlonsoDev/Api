@@ -20,13 +20,6 @@ Requisitos previos
     npm instalado en tu ordenador
     Datos de conexión de la base de datos
 
-id INT(11) AUTO_INCREMENT PRIMARY KEY,
-codigo_usuario VARCHAR(50),
-nombre_usuario VARCHAR(255),
-contrasena VARCHAR(255),
-fecha_alta DATETIME,
-activo BOOLEAN
-
 Pasos para correr el proyecto
 
     Clona el repositorio .
