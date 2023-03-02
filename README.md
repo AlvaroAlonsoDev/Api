@@ -1,6 +1,7 @@
 Proyecto: Tabla de Usuarios
 
 Este proyecto consiste en mostrar una tabla de usuarios con los campos Id usuario, Código de usuario, Nombre de usuario, Contraseña, Fecha de alta, Activo Si o No. Además, le he añadido paginacion y se pueden ordenar y filtrar por cada una de las columnas.
+
 Tecnologías utilizadas
 
     Node.js
