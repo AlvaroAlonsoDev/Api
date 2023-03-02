@@ -14,14 +14,17 @@ Tecnologías utilizadas
     Hooks: useState, useEffect
 
 Instrucciones para correr el proyecto
-Requisitos previos
+
+Requisitos previos:
 
     Node.js instalado en tu ordenador
     npm instalado en tu ordenador
     Datos de conexión de la base de datos
 
-Pasos para correr el proyecto
+Pasos para correr el proyecto:
+
     API
+    
         Clona el repositorio https://github.com/AlvaroAlonsoDev/Tech_Infopro-Digital---API .
         Abre una terminal.
         Instala las dependencias con el comando npm install.
@@ -29,6 +32,7 @@ Pasos para correr el proyecto
         Corre el servidor con el comando npm start.
 
     FRONT
+    
         Clona el repositorio https://github.com/AlvaroAlonsoDev/Tech_Infopro-Digital---Front .
         Abre una terminal.
         Instala las dependencias con el comando npm install.
